@@ -1,7 +1,6 @@
 # 💫 About Me:
 I'm currently learning fullstack development <br>I'm looking for an internship for software development <br>I'm learning right now how tech works 
 
-[![](https://visitcount.itsvg.in/api?id=Bondoman007&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kanishkshrivastava) 
@@ -40,7 +39,7 @@ I'm currently learning fullstack development <br>I'm looking for an internship f
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🐍 Watch my contribution graph get eaten by a snake!
-![snake gif](https://github.com/Bondoman007/Bondoman007/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Bondoman007/Bondoman007/blob/output/github-contribution-grid-snake.gif)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bondoman007&icon=0&color=0)](https://visitcount.itsvg.in)
+
