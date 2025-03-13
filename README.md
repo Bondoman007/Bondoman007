@@ -39,7 +39,8 @@ I'm currently learning fullstack development <br>I'm looking for an internship f
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🐍 Watch my contribution graph get eaten by a snake!
-![snake gif](https://github.com/Bondoman007/Bondoman007/blob/output/github-contribution-grid-snake.gif)
+
+![snake gif](https://github.com/Bondoman007/Bondoman007/blob/output/github-snake-dark.svg)
 
 ---
 
