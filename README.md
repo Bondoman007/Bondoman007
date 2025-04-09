@@ -7,7 +7,7 @@ I'm currently learning fullstack development <br>I'm looking for an internship f
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishk-shrivastava-134290244) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@kanishkshrivastava037) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanishkshrivastava037@gmail.com) 
-[![Portfolio](https://my-portfolio-kanishk.vercel.app/) 
+[![Portfolio](Portfolio)](https://my-portfolio-kanishk.vercel.app/) }
 
 
 
